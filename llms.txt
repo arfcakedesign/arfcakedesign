@@ -41,4 +41,4 @@
 - **Çalışma saatleriniz nedir?** Hafta içi 10:00–22:00, hafta sonu 09:00–12:00 saatleri arasında çalışıyoruz.
 
 ## Sayfalar
-- [Ana sayfa](https://SITE-ADRESI/): koleksiyon, hikâye, müşteri yorumları ve sipariş
+- [Ana sayfa](https://arfcakedesign.github.io/arfcakedesign/): koleksiyon, hikâye, müşteri yorumları ve sipariş

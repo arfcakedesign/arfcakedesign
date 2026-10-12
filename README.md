@@ -5,12 +5,11 @@ Ataşehir, İstanbul’daki butik pasta atölyesi Arf Cake Design’ın tek sayf
 ## GitHub Pages ile yayınlama
 1. GitHub’da yeni bir depo (repository) oluşturun ve bu klasördeki tüm dosyaları yükleyin.
 2. Depoda **Settings → Pages** bölümüne gidin; *Source* olarak `main` dalını ve `/ (root)` klasörünü seçin.
-3. Birkaç dakika sonra site `https://KULLANICIADI.github.io/DEPO-ADI/` adresinde yayında olur.
+3. Birkaç dakika sonra site `https://arfcakedesign.github.io/arfcakedesign/` adresinde yayında olur.
 
-## Yayın adresini girin (önemli)
-Dosyalarda yayın adresi yerine `https://SITE-ADRESI/` yazıyor. Site yayına girdikten sonra bu ifadeyi kendi adresinizle değiştirin
-(sonunda `/` olacak şekilde). Geçtiği dosyalar: `index.html`, `robots.txt`, `sitemap.xml`, `llms.txt`.
-GitHub’da “Go to file” ile dosyayı açıp kalem simgesiyle düzenleyebilir ya da bilgisayarınızda bul-değiştir kullanabilirsiniz.
+## Yayın adresi
+Site adresi dosyalarda `https://arfcakedesign.github.io/arfcakedesign/` olarak ayarlıdır. Kendi alan adınızı (ör. arfcakedesign.com) bağlarsanız
+`index.html`, `robots.txt`, `sitemap.xml` ve `llms.txt` içindeki bu adresi yeni adresle değiştirin.
 
 ## Yayından sonra
 - **Google Search Console**: siteyi ekleyin ve `sitemap.xml` adresini gönderin.

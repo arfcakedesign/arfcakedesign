@@ -17,4 +17,4 @@ Allow: /
 User-agent: Google-Extended
 Allow: /
 
-Sitemap: https://SITE-ADRESI/sitemap.xml
+Sitemap: https://arfcakedesign.github.io/arfcakedesign/sitemap.xml
